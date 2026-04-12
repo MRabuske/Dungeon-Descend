@@ -6,4 +6,4 @@ Esta pasta centraliza os artefatos de documentação do projeto.
 
 - `Documento de Requisitos de Software.docx`
 - `GDD Template.docx`
-- `Casos de Uso.docx`
+- `Especificação casos de uso.docx`

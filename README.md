@@ -13,4 +13,4 @@ Consulte a pasta `Documentação/` para acessar os documentos do projeto:
 
 - `Documento de Requisitos de Software.docx`
 - `GDD Template.docx`
-- `Casos de Uso.docx`
+- `Especificação casos de uso.docx`
