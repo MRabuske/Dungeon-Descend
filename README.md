@@ -12,5 +12,5 @@ O projeto "Dungeon Descend" consiste em um jogo digital do gênero RPG Tático d
 Consulte a pasta `Documentação/` para acessar os documentos do projeto:
 
 - `Documento de Requisitos de Software.docx`
-- `Especificação de Caso de Uso.docx`
 - `GDD Template.docx`
+- `Casos de Uso.docx`
